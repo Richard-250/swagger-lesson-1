@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "title": "man of the people",
+      "author": "Poprich"
+    }
+  ]
+}
