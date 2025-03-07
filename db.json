@@ -1,29 +1,38 @@
 {
   "books": [
     {
-HEAD
+ 
       "id": "1",
 
       "id": "",
- d0c4f5a (initialize database)
+
+
+      "id": "1",
+ 
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien"
     },
     {
- HEAD
+ 
       "id": "2",
 
       "id": "",
- d0c4f5a (initialize database)
+ 
+
+      "id": "2",
+
       "title": "man of the people",
       "author": "Poprich"
     },
     {
- HEAD
+ 
       "id": "3",
 
       "id": "",
- d0c4f5a (initialize database)
+
+
+      "id": "3",
+
       "title": "Iron monkey",
       "author": "Alexender the greet"
     }
